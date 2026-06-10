@@ -1,0 +1,19 @@
+# Variáveis de ambiente
+.env
+.env.local
+
+# Chave API
+GOOGLE_API_KEY
+
+# Arquivos de sistema
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pasta de resumos
+resumos_emails/
+
+# IDE
+.vscode/
+.idea/
+*.swp
