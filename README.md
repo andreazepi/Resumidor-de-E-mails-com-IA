@@ -3,6 +3,16 @@
 
 Aplicação que resume e-mails automaticamente usando a API do Google Gemini.
 
+## ⚠️ Sobre este Projeto
+
+Este é um **projeto inicial de aprendizagem** desenvolvido durante o curso "Python: Inteligência Artificial Aplicada" da Alura. O objetivo é demonstrar conceitos fundamentais de Python, integração com APIs e uso de modelos de IA.
+
+## 📚 Passo a Passo
+
+Se você quer ver como este projeto foi desenvolvido passo a passo, acesse o Google Colab:
+
+[Ver desenvolvimento no Google Colab](https://colab.research.google.com/drive/17BRim28Ut4yz-ffWzLVe3loqnqdHqVe9#scrollTo=OUYrzMfy6BZc)
+
 ## O que faz?
 
 Processa uma lista de e-mails e gera um resumo de uma linha para cada um, mostrando o intuito da mensagem.
@@ -40,6 +50,6 @@ resumidor_de_emails(email_bodies)
 
 ## Autor
 
-André Azepi
+André Azevedo
 ```
 
